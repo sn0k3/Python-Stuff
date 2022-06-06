@@ -1,6 +1,7 @@
 # Python-Stuff
 
-File v: 0.1
+File version: 0.1
+
 Date: 06.06.2022
 
 
