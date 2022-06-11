@@ -4,6 +4,9 @@ File version: 0.1
 
 Date: 06.06.2022
 
+----------------------------------------------------
+The folder "DiveIntoPy3" contains samples from the book "Dive Into Python 3 by Mark Pilgrim".
+
 
 
 | Up_id     | File        | Description |
